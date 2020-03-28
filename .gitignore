@@ -10,6 +10,17 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 [Aa]ssets/Oculus/
+[Aa]ssets/Gizmos/
+[Aa]ssets/Demigiant/
+[Aa]ssets/net.fabrejean/
+[Aa]ssets/PlayMaker/
+[Aa]ssets/Plugins/PlayMaker/
+
+[Aa]ssets/Gizmos.meta
+[Aa]ssets/Demigiant.meta
+[Aa]ssets/net.fabrejean.meta
+[Aa]ssets/PlayMaker.meta
+[Aa]ssets/Plugins/PlayMaker.meta
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/c**/*.meta
