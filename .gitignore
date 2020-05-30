@@ -10,6 +10,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 [Aa]ssets/Oculus/
+[Aa]ssets/VRTK/
 [Aa]ssets/Gizmos/
 [Aa]ssets/Demigiant/
 [Aa]ssets/net.fabrejean/
@@ -71,4 +72,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
