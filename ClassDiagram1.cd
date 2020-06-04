@@ -1,0 +1,3336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access">
+  <Class Name="OnSnap" Collapsed="true">
+    <Position X="110.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACAAACAAAAAAAAAAAAAAAADAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\OnSnap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ouija" Collapsed="true">
+    <Position X="116" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAAAAAAAAIEAAAAAAAIAAAAAI=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Ouija.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CameraMove" Collapsed="true">
+    <Position X="95" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAEAyAAAAAAAAAAAIAAAAAAAAAAAAAAAAACQMA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\CameraMove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEvents" Collapsed="true">
+    <Position X="100.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASBAAABAAAAAEAEUQBAABgA4AAABAAAQAAAIAAAgEA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\GameEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HandtoObject" Collapsed="true">
+    <Position X="103.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\HandtoObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HideByLocking" Collapsed="true">
+    <Position X="105.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIACAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\HideByLocking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LooktoPlayer" Collapsed="true">
+    <Position X="119.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAIAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\LooktoPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LucesEvents" Collapsed="true">
+    <Position X="95" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAAAAAAAAAAAAAAAAAAAIAIAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\LucesEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiplayerFunctions" Collapsed="true">
+    <Position X="100.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAABA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\MultiplayerFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Murcielagos" Collapsed="true">
+    <Position X="102" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAARgCgAAAAAAAAAAACAAIAAAAABgAAAIAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Murcielagos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chirridos" Collapsed="true">
+    <Position X="102" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAACIAAQIAAAAAACABAAAAEAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Chirridos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmmisionPulse" Collapsed="true">
+    <Position X="117.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAGAAAAAAAAAAAAAEAAAAAACAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\EmmisionPulse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prueba" Collapsed="true">
+    <Position X="110.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Prueba.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RelojSound" Collapsed="true">
+    <Position X="119.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAERAAAABAAAAAATAACAAAAAAJAAAQAAAAAAAABAE=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\RelojSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Shadow" Collapsed="true">
+    <Position X="105.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEABAAACQAAAAACAAAAAAAAAAAEAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Shadow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tentaculo" Collapsed="true">
+    <Position X="114.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Tentaculo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tentaculos" Collapsed="true">
+    <Position X="116" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAAAAAAAAAAAACAAAAAEAAAAQAAIAAAAEA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Tentaculos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vela" Collapsed="true">
+    <Position X="110.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\Vela.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvatarLayer" Collapsed="true">
+    <Position X="103.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OculusScripts\OvrAvatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AvatarLayerPropertyDrawer" Collapsed="true">
+    <Position X="105.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\OculusScripts\OvrAvatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacketRecordSettings" Collapsed="true">
+    <Position X="98.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAQIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\OculusScripts\OvrAvatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OvrAvatar" Collapsed="true">
+    <Position X="117.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GtARAEhCBUSgAQIACgAgI4mIgAggEIBADLwgEAABQAE=</HashCode>
+      <FileName>Assets\OculusScripts\OvrAvatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OVRInput" Collapsed="true">
+    <Position X="119.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICYKAEQCgjAU4gnAIAJRBYCgICACQQJQEDmhKsAACBg=</HashCode>
+      <FileName>Assets\OculusScripts\OVRInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OVRManager" Collapsed="true">
+    <Position X="95" Y="4.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="OVRManager.TiledMultiResLevel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.FixedFoveatedRenderingLevel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.EyeTextureFormat" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.CompositionMethod" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.XRDevice" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.TrackingOrigin" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.CameraDevice" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.MrcActivationMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.DepthQuality" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="OVRManager.VirtualGreenScreenType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\OculusScripts\OVRManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>bIxLJBpcS+CFIX2VAC2i4QAHBiHxojDPbABVc1z3dWw=</HashCode>
+      <FileName>Assets\OculusScripts\OVRManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OVRPlugin" Collapsed="true">
+    <Position X="96.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>4yf+TDQ8TxbddaGT0qGhNKENOuRg1wtPpPmkF3vULEM=</HashCode>
+      <FileName>Assets\OculusScripts\OVRPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppSettingsExtensions" Collapsed="true">
+    <Position X="95" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\AppSettingsExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChannelSelector" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="96.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAgAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\ChannelSelector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.835" Collapsed="true" />
+  </Class>
+  <Class Name="ChatAppIdCheckerUI" Collapsed="true">
+    <Position X="98.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\ChatAppIdCheckerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatGui" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="100.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CGQBAFoQQCoDGEQAABCAAICUAEBggQIYCRAwTAAQAJA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\ChatGui.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FriendItem" Collapsed="true">
+    <Position X="98.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAIAAAAAAABAAAAEAAAAQAAAEA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\FriendItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IgnoreUiRaycastWhenInactive" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="110.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\IgnoreUiRaycastWhenInactive.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="NamePickGui" Collapsed="true">
+    <Position X="103.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAACAAACAACAAAAAAAAAAAAAAAACAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\DemoChat\NamePickGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IconPreview" Collapsed="true">
+    <Position X="107.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAEA=</HashCode>
+      <FileName>Assets\Simple Vector Icons\Sample\IconPreview.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveBlock" Collapsed="true">
+    <Position X="98.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAECAAAAAgCAAQAAAAIAgAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\MoveBlock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TVRWMN.NetworkManagerPC" Collapsed="true">
+    <Position X="105.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gABQAAIAAHBAAAAQAAMAAAAAAAAAACYIEAAAAAAgEEA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\NetworkManagerPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TVRWMN.NetWorkManagerVR" Collapsed="true">
+    <Position X="107.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gABAIAIAgiBAAkAQAEMAAAgAgQAAACIIEAAAAAAAAMA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\NetWorkManagerVR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TVRWMN.RoomList" Collapsed="true">
+    <Position X="100.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAQACAAAACAAAAAAAQAAAAAAAAAAAgAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\RoomList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityTemplateProjects.SimpleCameraController" Collapsed="true">
+    <Position X="107.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAwgAAAAAAAAAIJAAAAAAAAAAAAAAAAAECAACAA=</HashCode>
+      <FileName>Assets\_TVRWMN\Scripts\SimpleCameraController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon.Chat.UtilityScripts.EventSystemSpawner" Collapsed="true">
+    <Position X="119.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\Common\EventSystemSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon.Chat.UtilityScripts.OnStartDelete" Collapsed="true">
+    <Position X="112.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\Common\OnStartDelete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photon.Chat.UtilityScripts.TextButtonTransition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="117.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAABAAAAAAAAAAAAAAAAAgAAAIAAAAAQAACEI=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\Common\TextButtonTransition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Photon.Chat.UtilityScripts.TextToggleIsOnTransition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="119.5" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAADAAggAEIAAAQAQAAKAA=</HashCode>
+      <FileName>Assets\Photon\PhotonChat\Demos\Common\TextToggleIsOnTransition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Photon.Realtime.Demo.ConnectAndJoinRandomLb" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="105.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gEaAAEIAACAAEQAAAEACAIEAAAGBAAIEEAJAAAAAQIA=</HashCode>
+      <FileName>Assets\Photon\PhotonRealtime\Demos\DemoLoadBalancing\ConnectAndJoinRandomLb.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_ControllerEventsDelegateListeners" Collapsed="true">
+    <Position X="103.75" Y="13.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>CBUwiEEIYQHQQQOgiiiAYAgAKSoDFQAKkUAAxAAISIQ=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[001 - Interactions] ControllerEvents\Scripts\VRTKExample_ControllerEventsDelegateListeners.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_PointerObjectHighlighterActivator" Collapsed="true">
+    <Position X="110.75" Y="13.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIAAUCQkAAIQAAAQAAAAAAAAAMAAAAIAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[002 - Pointers] StraightPointer\Scripts\VRTKExample_PointerObjectHighlighterActivator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_BezierPointerChanger" Collapsed="true">
+    <Position X="3" Y="15" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAABAADAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[003 - Pointers] BezierPointer\Scripts\VRTKExample_BezierPointerChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_BezierPointerCustomStyles" Collapsed="true">
+    <Position X="0.75" Y="16.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAgAAQACCAAAAAAAAAAAIAgAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[003 - Pointers] BezierPointer\Scripts\VRTKExample_BezierPointerCustomStyles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_BezierPointerDefaults" Collapsed="true">
+    <Position X="3" Y="16.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[003 - Pointers] BezierPointer\Scripts\VRTKExample_BezierPointerDefaults.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_BezierPointerLineRenderer" Collapsed="true">
+    <Position X="5.25" Y="16.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[003 - Pointers] BezierPointer\Scripts\VRTKExample_BezierPointerLineRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ControllableReactor" Collapsed="true">
+    <Position X="107.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAACAAAAAAAAAAAEAAEAAAAAAIAACCCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[005 - Interactions] InteractableObjects\Scripts\ControllableReactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.SnapDropZoneToggle" Collapsed="true">
+    <Position X="110.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIABAAIAAAAAAAEAAAAAAAIIAAAAAAEACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[005 - Interactions] InteractableObjects\Scripts\SnapDropZoneToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ToggleCustomHands" Collapsed="true">
+    <Position X="95" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAACAQQAgAAAAAAAQAAAAAEAAAEMABAAAAAACIA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[005 - Interactions] InteractableObjects\Scripts\ToggleCustomHands.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.TogglePointerInteraction" Collapsed="true">
+    <Position X="102" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAQAAAAAAAAgAAAAASAAAEAAIAAAAAACCCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[005 - Interactions] InteractableObjects\Scripts\TogglePointerInteraction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ClimbableHandLift" Collapsed="true">
+    <Position X="103.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAIAAAAAAAAREAAAAAAQAIBQADAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\ClimbableHandLift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ElevatorControl" Collapsed="true">
+    <Position X="116" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAAAAAAAAEAAEAAIAAAAAAgACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\ElevatorControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.IgnoreTeleportDummy" Collapsed="true">
+    <Position X="109" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\IgnoreTeleportDummy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.OptionsMenu" Collapsed="true">
+    <Position X="114.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAIwAAAAAACAAAEAAAAAAAAAEAAAAAAAQCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\OptionsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ToggleGameObject" Collapsed="true">
+    <Position X="96.75" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAABAAYgIAAAAIAAAQAAQAAAAEAAIAAAAgACDCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\ToggleGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ToggleGameObjectSliderOptions" Collapsed="true">
+    <Position X="100.25" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\ToggleGameObjectSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ToggleGameObjectSlider" Collapsed="true">
+    <Position X="98.5" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAgAAAAAAAAAAEAAAAAIAAAEAAABCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[006 - Locomotion] MovementTypes\Scripts\ToggleGameObjectSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenuSaucerGrid" Collapsed="true">
+    <Position X="103.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAEAAAAKQAAgQAIAAIAgAAAEABAAIAAAACIA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[007 - Interactions] InteractionHelpers\Scripts\PanelMenuSaucerGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenuSphereSlider" Collapsed="true">
+    <Position X="105.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAIQAAAAAIAAIAAAAAAIAAgEAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SceneResources\[007 - Interactions] InteractionHelpers\Scripts\PanelMenuSphereSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.BeamRotator" Collapsed="true">
+    <Position X="109" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAQAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\AnimatedBezierPointer\Scripts\BeamRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.FireExtinguisher_Base" Collapsed="true">
+    <Position X="25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAgAAAADAAAAAAIIAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\FireExtinguisher\Scripts\FireExtinguisher_Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.FireExtinguisher_Sprayer" Collapsed="true">
+    <Position X="29.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACACAAAAAEAACoAAAAABAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\FireExtinguisher\Scripts\FireExtinguisher_Sprayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.GunShoot" Collapsed="true">
+    <Position X="102" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAAQAEABAAAAAAAAAAAAAgAAAIAAAAAABACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\Guns\Scripts\GunShoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.InteractableLamp" Collapsed="true">
+    <Position X="112.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAQAAIAACAAAAAAAAAAAAAEAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\Lamp\Scripts\InteractableLamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ScaleOnUse" Collapsed="true">
+    <Position X="102" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAgAACQAAAAEAAAAAAIIoAAAABQCAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\LightSaber\Scripts\ScaleOnUse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.InteractableWhirlyGig" Collapsed="true">
+    <Position X="114.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAwAAAABAAAAAAAAAAAAAABAIIAAAAABACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Prefabs\Whirlygig\Scripts\InteractableWhirlyGig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_OptionTile" Collapsed="true">
+    <Position X="3" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgEAAAABCAAAEAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\VRTKExample_OptionTile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTKExample_OptionTilePointerSelector" Collapsed="true">
+    <Position X="109" Y="13.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAgAAAAAAAAAAAAAAAAAMAAAAIAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\VRTKExample_OptionTilePointerSelector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.AutoRotation" Collapsed="true">
+    <Position X="102" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAQAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\AutoRotation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Breakable_Cube" Collapsed="true">
+    <Position X="117.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAAEAAAAAAAAAAAAAIAAABAAAAAgA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Breakable_Cube.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ButtonReactor" Collapsed="true">
+    <Position X="119.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAgAIAAAAAACACAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\ButtonReactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Controller_Hand" Collapsed="true">
+    <Position X="109" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAIgAACAACgAhgAABCAQAAACAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Controller_Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Controller_Menu" Collapsed="true">
+    <Position X="110.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwQAAAAACAAAAAAAAAAAAgAAAgACAAAAAgAAAgAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Controller_Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ControlReactor" Collapsed="true">
+    <Position X="112.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAgAAAAAAAAQAAAAAEIAAAAKAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\ControlReactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ControlsMenu" Collapsed="true">
+    <Position X="114.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAIEIAAAEQEIAAAAAAAACEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\ControlsMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ExcludeTeleport" Collapsed="true">
+    <Position X="95" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\ExcludeTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Gun" Collapsed="true">
+    <Position X="4.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAABAAAAAAAAAAAQAAAFAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Gun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.HandLift" Collapsed="true">
+    <Position X="9.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAAAREAAAAAAQAAAQADAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\HandLift.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Lamp" Collapsed="true">
+    <Position X="16" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAIAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Lamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.LightSaber" Collapsed="true">
+    <Position X="18.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgUAQAIAACCIAAAAABAAAAAAQAQAIABAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\LightSaber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Menu_Color_Changer" Collapsed="true">
+    <Position X="20.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAABAAAAAQAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Menu_Color_Changer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Menu_Container_Object_Colors" Collapsed="true">
+    <Position X="22.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Menu_Container_Object_Colors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Menu_Object_Spawner" Collapsed="true">
+    <Position X="27.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAABAAAABAAAAAAAEAAAAAABAAAAAAABAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Menu_Object_Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.ModelVillage_TeleportLocation" Collapsed="true">
+    <Position X="7.5" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAABBAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\ModelVillage_TeleportLocation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Openable_Door" Collapsed="true">
+    <Position X="31.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAACAAECAQAAABgLQAAAAAAAAAAAgAQAAAABAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Openable_Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PusherStickyToggle" Collapsed="true">
+    <Position X="112.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>oAAIAAAAIAAAAgAAAAAAIEAAAgAAAAAIAAAACACACBA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\PusherStickyToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RC_Car" Collapsed="true">
+    <Position X="116" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAoIAAoAAABAEAhQCAAAAAAAIAoSIAoBAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RC_Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RC_Car_Controller" Collapsed="true">
+    <Position X="117.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAghAAAACAAAAAAAAAAAAAAAAAAAAAAEQAAgQAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RC_Car_Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RealGun" Collapsed="true">
+    <Position X="38.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAgEAAACBBAABAAAAAAIAAACUSJAFAMAAAIAEQ=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RealGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RealGun_SafetySwitch" Collapsed="true">
+    <Position X="40.75" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAgAAABAAAAAAAgAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RealGun_SafetySwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RealGun_Slide" Collapsed="true">
+    <Position X="49.25" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQAAAABAAAAAAAAAAEAAAAgAQAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RealGun_Slide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Remote_Beam" Collapsed="true">
+    <Position X="95" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAEAAAAAAAAAAAACAAiBAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Remote_Beam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Remote_Beam_Controller" Collapsed="true">
+    <Position X="96.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAAAAAAAAAAAEAAAAQAAgAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Remote_Beam_Controller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.RendererOffOnDash" Collapsed="true">
+    <Position X="98.5" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAABAAAAAAAAAAAAAAAAAAEIAAAAACABCAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\RendererOffOnDash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.SnapDropZoneGroup_Switcher" Collapsed="true">
+    <Position X="109" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAgAAAAABAAAAAAAAAAQAAAAEAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\SnapDropZoneGroup_Switcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Sphere_Spawner" Collapsed="true">
+    <Position X="112.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAQCAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Sphere_Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Sword" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAEAAAAAAAAAgACAAIAEAIAAAICAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.UI_Interactions" Collapsed="true">
+    <Position X="103.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAgAAAAAAACAAAKAAAAAAAAAgBAAAAAAAAAQAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\UI_Interactions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.UI_Keyboard" Collapsed="true">
+    <Position X="105.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAAAAAAAAAAAEABAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\UI_Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.UseRotate" Collapsed="true">
+    <Position X="11.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAIAACAAAAAAABAAABAAAAAAABAgAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\UseRotate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_ControllerAppearance_Example" Collapsed="true">
+    <Position X="95" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AASgAAgAwQGAARQoAkgAAAAACAAAEIIIWEABQQAACAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_ControllerAppearance_Example.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_ControllerEvents_ListenerExample" Collapsed="true">
+    <Position X="100.25" Y="8.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>CBUwiEEIQQHQQQOgiiiAYAgAKSgDFQAIkUAAxAAISIQ=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_ControllerEvents_ListenerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_ControllerInteract_ListenerExample" Collapsed="true">
+    <Position X="105.5" Y="8.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACEAAACAAAAAAAAAAAAAAAAQAAAAAAAAABA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_ControllerInteract_ListenerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_ControllerPointerEvents_ListenerExample" Collapsed="true">
+    <Position X="109" Y="8.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAABAAAAAAAAAAAAAEAAAIAAAAAAAIAAg=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_ControllerPointerEvents_ListenerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_ControllerUIPointerEvents_ListenerExample" Collapsed="true">
+    <Position X="116" Y="8.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAAAAQSAAAAAAAAAAAACAAAAAAQAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_ControllerUIPointerEvents_ListenerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.VRTK_RoomExtender_ControllerExample" Collapsed="true">
+    <Position X="105.5" Y="11.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAKAAAAAgAAAAAAAAAAAAAAEAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\VRTK_RoomExtender_ControllerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Whirlygig" Collapsed="true">
+    <Position X="34" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAACAAAAAAQBAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Whirlygig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Zipline" Collapsed="true">
+    <Position X="36.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAABAAAAAAAAAIAAgAACAAAABQAAAADAAAAAMA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Zipline.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Utilities.VRTKExample_FixSetup" Collapsed="true">
+    <Position X="105.5" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAQAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\VRTKExample_FixSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Utilities.VRTKExample_ObjectListToggle" Collapsed="true">
+    <Position X="107.25" Y="13.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEBAgAAAAAAAAACAAAAAAAAAIRAAEAAIAAAAQAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\VRTKExample_ObjectListToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Utilities.VRTKExample_SceneSwitcher" Collapsed="true">
+    <Position X="112.5" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgQAEAEAAAAAAAIAAAAAgAAAAAAgCJAAgAAAAAAACEA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\VRTKExample_SceneSwitcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Utilities.SceneChanger" Collapsed="true">
+    <Position X="103.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAABAAAAABAAAAAAAABAAAACAAAAAAAAAABAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\SceneChanger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Utilities.SceneLoader" Collapsed="true">
+    <Position X="105.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAQAACAAAAAAACAAAAJAAAEAAAAAAAAAIAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\SceneLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.Arrow" Collapsed="true">
+    <Position X="96.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgIAAAAhiAAAAIAAACEAgAEIAAAJACMAAAAABBCQAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\Arrow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.ArrowNotch" Collapsed="true">
+    <Position X="98.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAAAAAAAEAAAAAAAAAAAQAAAAAAIAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\ArrowNotch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.ArrowSpawner" Collapsed="true">
+    <Position X="100.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAEBAAAAAAAgBAAAAAAAMAAAAACAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\ArrowSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.BowAim" Collapsed="true">
+    <Position X="112.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AExAAAAAAiAACgIAEAAYCKgAAAEASCEiAALKABQgAAM=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\BowAim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.BowAnimation" Collapsed="true">
+    <Position X="114.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\BowAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.BowHandle" Collapsed="true">
+    <Position X="116" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\BowHandle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Archery.Follow" Collapsed="true">
+    <Position X="96.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAIAAAAAAAAAAAAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Archery\Follow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Old.FireExtinguisher_Base" Collapsed="true">
+    <Position X="7" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAgAAAADAAAAAAIIAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\FireExtinguisher_Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Old.FireExtinguisher_Sprayer" Collapsed="true">
+    <Position X="13.75" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAAAAAAEAACoAAAAABAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\FireExtinguisher_Sprayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenu.PanelMenuDemoFlyingSaucer" Collapsed="true">
+    <Position X="100.25" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\PanelMenu\PanelMenuDemoFlyingSaucer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenu.PanelMenuDemoSphere" Collapsed="true">
+    <Position X="102" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\PanelMenu\PanelMenuDemoSphere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenu.PanelMenuUIGrid" Collapsed="true">
+    <Position X="107.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQQAIAAAgQAAAAACAAgAkABAIMAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\PanelMenu\PanelMenuUIGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.PanelMenu.PanelMenuUISlider" Collapsed="true">
+    <Position X="109" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQQAAAAAAAAAAAAAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\PanelMenu\PanelMenuUISlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Tests.VRTK_BaseTest" Collapsed="true">
+    <Position X="0.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAABBAAIAAAAAAAAAAACAAgKAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Tests\VRTK_BaseTest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Examples.Tests.VRTK_ControllerReference_Setup" Collapsed="true">
+    <Position X="0.5" Y="19" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQMAAAAHBAA4JQAAABACEAEAAAAAAAQAADAEAAAA=</HashCode>
+      <FileName>Assets\VRTK\LegacyExampleFiles\ExampleResources\Scripts\Tests\VRTK_ControllerReference_Setup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.AxisOverrides" Collapsed="true">
+    <Position X="107.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CFACAAAAAAggAAAAQAAAAAAAAACAAAAAAAAQAJQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\AvatarHands\VRTK_AvatarHandController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_AvatarHandController" Collapsed="true">
+    <Position X="114.25" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>vwwgmYWKECkASBYBosE4QQRkObKSCI4ZIFlGpgM2TBk=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\AvatarHands\VRTK_AvatarHandController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ConsoleViewer" Collapsed="true">
+    <Position X="117.75" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QCAEAAEIAAAAgRACAACAAAIAAAIIAABICAAAAEAACFA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ConsoleViewerCanvas\VRTK_ConsoleViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerRigidbodyActivator" Collapsed="true">
+    <Position X="112.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAkAAQAAAQAAAAAAgAAAAIAAQAAAIAMAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerRigidbodyActivator\VRTK_ControllerRigidbodyActivator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerTooltips" Collapsed="true">
+    <Position X="114.25" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EDBFAASAkBgkAAIQgQBgiAgKIgeIkUAYAABEIAGADWA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerTooltips\VRTK_ControllerTooltips.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DesktopCamera" Collapsed="true">
+    <Position X="96.75" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAQCAAAAgAIAAAAAAIAAABAAAQCAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\DesktopCamera\VRTK_DesktopCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DestinationPoint" Collapsed="true">
+    <Position X="0.75" Y="22" Width="2" />
+    <TypeIdentifier>
+      <HashCode>SEQBEIDERhCAABAZAAACAFCYAIUiQCCdgBCAgAlTKFA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\DestinationPoint\VRTK_DestinationPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_FramesPerSecondViewer" Collapsed="true">
+    <Position X="103.75" Y="9.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQBCAAAAAEAAQADUAAAIEACAAAAAAAIIIAAAgAACAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\FramesPerSecondCanvas\VRTK_FramesPerSecondViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectTooltip" Collapsed="true">
+    <Position X="110.75" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AA0BEAAACQiAgAICAIAAgEAAAAAAIAAAAOAAIAEAGFA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ObjectTooltip\VRTK_ObjectTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PanelMenuController" Collapsed="true">
+    <Position X="112.5" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>oCQFEJIwQHAAAVAIgUIAAgAQYgACQFAgLglAgAiFAlI=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PanelMenu\VRTK_PanelMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PanelMenuItemController" Collapsed="true">
+    <Position X="114.25" Y="10.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IACICAyAAEAQECAQEAAAAAAAACgEAggAAAMEAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PanelMenu\VRTK_PanelMenuItemController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PointerDirectionIndicator" Collapsed="true">
+    <Position X="96.75" Y="11.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAIAUACAAQAgAAAAABIIIACAAhAAAAAAAgAAAlQ=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PointerDirectionIndicator\VRTK_PointerDirectionIndicator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.RadialButtonIcon" Collapsed="true">
+    <Position X="114.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\RadialMenuButton\RadialButtonIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UICircle" Collapsed="true">
+    <Position X="107.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAABAAAAAAIAAIAAAAAAAAgAgAAwAAAAAQAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\RadialMenuButton\UICircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_IndependentRadialMenuController" Collapsed="true">
+    <Position X="0.5" Y="2" Width="3" />
+    <TypeIdentifier>
+      <HashCode>IAQBBIIEAigAAYgIIAggCEAAIgAAAIGoAAAAgIIISGA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\VRTK_IndependentRadialMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RadialMenu" Collapsed="true">
+    <Position X="102" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wDcIUAEgAJAIAEQEKAAEEEAAgAAAQAAQAACAgIiRQkA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\VRTK_RadialMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RadialMenuController" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAhEAAAQAAAAAAAAkAAgAAAAIKAACAgIQACEg=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\VRTK_RadialMenuController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKSetupSwitcher" Collapsed="true">
+    <Position X="119.5" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAQQACAAAAEBAACAIAAEIBAYAwAAAAAgKcA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\SDKSetupSwitcher\VRTK_SDKSetupSwitcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SnapDropZone" Collapsed="true">
+    <Position X="102" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>qERgGFKA4FLWfRCCDDKMQUIUgIEGAYeITR8xZAxYW1I=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\SnapDropZone\VRTK_SnapDropZone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ContentHandler" Collapsed="true">
+    <Position X="119.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAAAAAAAAAAAAAAEIAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\Utilities\VRTK_ContentHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Button" Collapsed="true">
+    <Position X="1.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARkAgCQAgAAIKACAAAAEEFAAkQIAEOMAwADEAAAIIQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Chest" Collapsed="true">
+    <Position X="3.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABRGggGQAEAkIIAAAAAAAAABEQAAAAkAAAQDAAABAII=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Chest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Control" Collapsed="true">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiQECgAAYCIAAIgAAAAAAAQAAEgAACEAACgDAABgQME=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Door" Collapsed="true">
+    <Position X="5.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gDBGggSgAEgwIICCAgAAAAABAAAABAkAAAcBAQIAQII=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Door.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Drawer" Collapsed="true">
+    <Position X="8" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ENBOAhCQAEAAIIAAAAAAAAAAARACAAiAAgQDQAACAJI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Drawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Knob" Collapsed="true">
+    <Position X="10.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABBAkgCACAASIIAAAAAAAAABAAAAAAGAAAABAAAAEYI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Knob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Lever" Collapsed="true">
+    <Position X="12.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAggAAEAgAIICCAgAAAAAhAAAAKAGAAAABAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Lever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Slider" Collapsed="true">
+    <Position X="14.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAEghCAEAAYYICAAghAQAABABAIIICAEAABAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Slider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SpringLever" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAiAAAAAAJAgCQCAAAAAAAAAAAABAAABAAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_SpringLever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Wheel" Collapsed="true">
+    <Position X="17" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAghAACAAASIIAAlBAIGIBAAAAAAHBQAQBBAAgBME=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Wheel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_IgnoreInteractTouchColliders" Collapsed="true">
+    <Position X="24.5" Y="15" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACBCCAAAAAAACAAIQAABAgIAAGAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_IgnoreInteractTouchColliders.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractableListener" Collapsed="true">
+    <Position X="24" Y="20.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAAAAAAAEAAAAAAAAQAAAAAAAAAAAAAAAAIACA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractableListener.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractableObject" Collapsed="true">
+    <Position X="22.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IjRX6T+hWrEZICIy1zY9NQJ0IQSCdOgIdBl8iYpt/do=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractableObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractControllerAppearance" Collapsed="true">
+    <Position X="116" Y="9.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAoAACQgAAUAAACgiAgAIgAAIEACkAQIAAAACFPQCAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractControllerAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractHaptics" Collapsed="true">
+    <Position X="20.75" Y="22" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAgaaBAWKGAAAICEAgRACAwOAABKCjSIIAAQAEiEiAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractHaptics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractObjectAppearance" Collapsed="true">
+    <Position X="23" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEYGAQAEAEboAQaTBBQyAYQAUUFBAQIJEIAIRRCGAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractObjectHighlighter" Collapsed="true">
+    <Position X="25.25" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ACCImEggAAAAAgAAEAAEgAQAAC1iIEAJAFAgACQFaAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectTouchAutoInteract" Collapsed="true">
+    <Position X="27.5" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAIAAAACCIEAAAgSQAAwAAAAIJgQCAAAICAQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_ObjectTouchAutoInteract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerEvents" Collapsed="true">
+    <Position X="98.5" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>Ay0FG2Uu7vt5Nbd4y3wK31SxeHv+W3JLu3OZAF9Wje8=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ControllerEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerHighlighter" Collapsed="true">
+    <Position X="103.75" Y="8.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gwWhAAwIAABIQ3AyEQGhCjhK4AAAAEAoBkQACQLIaM4=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ControllerHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerTrackedCollider" Collapsed="true">
+    <Position X="26.75" Y="15" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAIAQIABAABBQQAIAoACEAAIAEgCAAIACCAAEAAyAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ControllerTrackedCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractGrab" Collapsed="true">
+    <Position X="117.75" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IgwrAgRAagFiJCBBAAsggkMAMAgECgEKARIwWdxbGEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractGrab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractNearTouch" Collapsed="true">
+    <Position X="119.5" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IgIAAYAAAAAAIIAAAAIAAgAAAAABAAEIICAAIAAICAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractNearTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractNearTouchCollider" Collapsed="true">
+    <Position X="95" Y="10.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACACAAAAAAIIAAAAAAAAAAAAAAIAAQAAABAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractNearTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractTouch" Collapsed="true">
+    <Position X="96.75" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACgBQEAAEggBEZFIACIoKQIAiQwACMkIQMKBpBAImmg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractTouch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractUse" Collapsed="true">
+    <Position X="98.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>aIQAAAIAAAIQBABoQAgICGAEMQBEyAA4AIICQFBIyGA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractUse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectAutoGrab" Collapsed="true">
+    <Position X="107.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAEBAAEAAgAAAAAAQAAEEggABBIAEAggCAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ObjectAutoGrab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerHaptics" Collapsed="true">
+    <Position X="102" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAAAABAAABQBAAAAAAAAAAAAABAAAAIgAQAAAACAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\VRTK_ControllerHaptics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectAppearance" Collapsed="true">
+    <Position X="105.5" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIgCAYAAAIAIAIAEAAACCgABAABBBAAIAASAIAAIAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\VRTK_ObjectAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.MinMaxRangeAttribute" Collapsed="true">
+    <Position X="96.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\Attributes\MinMaxRangeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.ObsoleteInspectorAttribute" Collapsed="true">
+    <Position X="109" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\Attributes\ObsoleteInspectorAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Limits2D" Collapsed="true">
+    <Position X="117.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAggAAAAABAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\DataTypes\Limits2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Vector3State" Collapsed="true">
+    <Position X="109" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAEAAAAAAABAAAAAgAgAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\DataTypes\Vector3State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_CollisionTracker" Collapsed="true">
+    <Position X="116" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQgAAABAhAAgAAKAQAgAAgCRIAMQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_CollisionTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerReference" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="110.75" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABACAEAAAAAAAAkgAgQAAAAAAAAEIAAAABgAAAJIAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_ControllerReference.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.Bezier" Collapsed="true">
+    <Position X="110.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_CurveGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_CurveGenerator" Collapsed="true">
+    <Position X="117.75" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIACIUgABCAAAAygAAAAYYAAIAECOAGAEAAEAAgA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_CurveGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Defines" Collapsed="true">
+    <Position X="95" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAAAAIBAAABAQAAAAAAEAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_Defines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_EventSystem" Collapsed="true">
+    <Position X="102" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAIAIAAAQAAAAAACIAAAAAAAABAIAACAAAAACAI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_EventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Logger" Collapsed="true">
+    <Position X="100.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAYAAAABAAAABAAhAABEAAAAAAEAMAEQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectCache" Collapsed="true">
+    <Position X="109" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_ObjectCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PlayerObject" Collapsed="true">
+    <Position X="95" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_PlayerObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RoomExtender_PlayAreaGizmo" Collapsed="true">
+    <Position X="107.25" Y="11.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAFAgAIQAIAAAAAAAgAAAAAAAAAAACAAACAAAAACEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_RoomExtender_PlayAreaGizmo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ScreenFade" Collapsed="true">
+    <Position X="109" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAQCAAAAAAAAAAAAAIgARAAAAAAACAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_ScreenFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKControllerReady" Collapsed="true">
+    <Position X="22.25" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAIAQAAAAAAAQAAADAgYAACAAAAACAg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_SDKControllerReady.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TrackedController" Collapsed="true">
+    <Position X="109" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAwJAAAAAggACBAAAQABAhAEAEAAiBhoAACAAABBjEg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_TrackedController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TrackedHeadset" Collapsed="true">
+    <Position X="110.75" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_TrackedHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TunnelEffect" Collapsed="true">
+    <Position X="112.5" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAAAABAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_TunnelEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_UIGraphicRaycaster" Collapsed="true">
+    <Position X="95" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAIAAiAAAgEAAAAAAAAgAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_UIGraphicRaycaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_VRInputModule" Collapsed="true">
+    <Position X="102" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAIIAAQAAAgBAAAAAQGgAgAAAAQAgAAABAgA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_VRInputModule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_BaseObjectControlAction" Collapsed="true">
+    <Position X="14" Y="20.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ECgBgCQAYAAUAAgAAgABAgAiAAAEABCIAAAAAIABCEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\ObjectControlActions\VRTK_BaseObjectControlAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RotateObjectControlAction" Collapsed="true">
+    <Position X="10.75" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAgAAAgAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\ObjectControlActions\VRTK_RotateObjectControlAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SlideObjectControlAction" Collapsed="true">
+    <Position X="13" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIQAAAAAAhAAAAAABAAAAhAAAAAAEAAACAI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\ObjectControlActions\VRTK_SlideObjectControlAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SnapRotateObjectControlAction" Collapsed="true">
+    <Position X="15.25" Y="22" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAhAAAAAQEQAAAQAgEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\ObjectControlActions\VRTK_SnapRotateObjectControlAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_WarpObjectControlAction" Collapsed="true">
+    <Position X="17.5" Y="22" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAQAAAAAAhAAAAAAQAAAAACAAAQAACAACBA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\ObjectControlActions\VRTK_WarpObjectControlAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_BasicTeleport" Collapsed="true">
+    <Position X="0.5" Y="26.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>JDkJAEiARAgCCAoEBhABQAgEQQBOAACIAAwKBAMAyFQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_BasicTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ButtonControl" Collapsed="true">
+    <Position X="27.75" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAREAARoBAAAgBAAAQBQEGMkAAAgAQAAAAAQAABQAAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_ButtonControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DashTeleport" Collapsed="true">
+    <Position X="0.5" Y="29.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>RBACAAQAAAIAAAALAEJACAgAAAAAAAQIAAgYBAIACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_DashTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DragWorld" Collapsed="true">
+    <Position X="100.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwMTEAMFwoySABBAAQoEBiIBEBtDiAQoOAECAACgqXA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_DragWorld.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeightAdjustTeleport" Collapsed="true">
+    <Position X="0.5" Y="28" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAgBAAAAAACAAAAAAAAAAAAAIAAAAAgQASAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_HeightAdjustTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_MoveInPlace" Collapsed="true">
+    <Position X="102" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>YwWJCGlESkQQDAQAIFAAJgASAJGAQhAJEgCQKABQiFI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_MoveInPlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectControl" Collapsed="true">
+    <Position X="26.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBBABCAlYAAAGAACBQQAIgIAAASQBIBCQAGQQACMA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_ObjectControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PlayerClimb" Collapsed="true">
+    <Position X="119.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQJIEAAQEQAMQAjBSAIAAAIiGAAAAhYhAEQIAAQCEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_PlayerClimb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RoomExtender" Collapsed="true">
+    <Position X="103.75" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBgAAASMAAQAEABAAgAAQAAAAAAAABoAEABAAACEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_RoomExtender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SlingshotJump" Collapsed="true">
+    <Position X="100.25" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABBAgExAQAAUkBlCBQECQACBCQEAiYIABWgAAUCEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_SlingshotJump.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_StepMultiplier" Collapsed="true">
+    <Position X="103.75" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIQBgAAAaIAAQQEADAAgAAQAIAAgAAABIAAABAAAKEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_StepMultiplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TeleportDisableOnControllerObscured" Collapsed="true">
+    <Position X="105.5" Y="12.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAABAADAAAAAAIAAAAAAAAIAAAAAAAADAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_TeleportDisableOnControllerObscured.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TeleportDisableOnHeadsetCollision" Collapsed="true">
+    <Position X="107.25" Y="12.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAABAADAAAAAAIIAAAAAAAIAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_TeleportDisableOnHeadsetCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TouchpadControl" Collapsed="true">
+    <Position X="25.5" Y="12" Width="2" />
+    <TypeIdentifier>
+      <HashCode>JAAQAABAAAAAAAAAgAAAQgIgAAAAAQAAAAIAAhQBCUE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_TouchpadControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TunnelOverlay" Collapsed="true">
+    <Position X="114.25" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>EAEhgEFEBgAAAACDAAAEQAAACAAAASBIACEAFEEIClQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_TunnelOverlay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_BasePointerRenderer" Collapsed="true">
+    <Position X="24.75" Y="23.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AgAdVQIBDsQDOiQiJu9xAAAC4oESJFAIAIigJAAACcA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\PointerRenderers\VRTK_BasePointerRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_BezierPointerRenderer" Collapsed="true">
+    <Position X="23.5" Y="25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAgEhCIQBgAABEQAAAAAAAKUAAAgAEJAEKCRDCgYAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\PointerRenderers\VRTK_BezierPointerRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_StraightPointerRenderer" Collapsed="true">
+    <Position X="25.75" Y="25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAEBAIAAAAABAQAAAAgAgAQAAAQAECAFCCUJCAYgIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\PointerRenderers\VRTK_StraightPointerRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DestinationMarker" Collapsed="true">
+    <Position X="4" Y="20.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAIIAAAAAQAAgQBogABAAAgAAAAQAAMIAASIAgACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_DestinationMarker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PlayAreaCursor" Collapsed="true">
+    <Position X="117.75" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AA4pSACEUAFEAAAiECJRAAocAoiBAgEIAYQCADtFCNA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_PlayAreaCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PlayAreaCollider" Collapsed="true">
+    <Position X="116" Y="10.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAABBAAAABAAAAAAAAAIAJAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_PlayAreaCursor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Pointer" Collapsed="true">
+    <Position X="3" Y="22" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>mgRpWBGM+0POCQNKnEKEtJgYJKBhCDU6oCAiAQiKKEY=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_Pointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_BodyPhysics" Collapsed="true">
+    <Position X="5.25" Y="22" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>FMAlEfzDxoRkZVFhP9D64wsno04BAM2uzjljA/n/W/o=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_BodyPhysics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeadsetCollision" Collapsed="true">
+    <Position X="107.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQFAIAAAgEAAAEEAIABAgAAQAACAAAIAAAAQCIACFA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeadsetCollider" Collapsed="true">
+    <Position X="105.5" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAABBAAAABAAAAAAAAAIABAkAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetCollision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeadsetCollisionFade" Collapsed="true">
+    <Position X="109" Y="9.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACEABAAQAAAAAAAABIBAAAIQAAAAAAIAAAAACAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetCollisionFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeadsetControllerAware" Collapsed="true">
+    <Position X="110.75" Y="9.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAQFACJIBEQKQAZAhAIAAAAigCRAAAAqBABAAAACCFg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetControllerAware.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HeadsetFade" Collapsed="true">
+    <Position X="112.5" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAwAAAAYAIAAAAAABBAAAAAAAQAhAAAAAQAEjFA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetFade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_HipTracking" Collapsed="true">
+    <Position X="114.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAACEAAAAAAAIIAAABAAAAAAAAAAAAAAACEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HipTracking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PositionRewind" Collapsed="true">
+    <Position X="100.25" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ggwJECWUQgQmAAEQEAgBBgAIAAAkAQAoAACSABAACVA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_PositionRewind.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_UICanvas" Collapsed="true">
+    <Position X="116" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAECAAAAAAAAEAAABAACAQAgAIAIQAEEAAAEiAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UICanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_UIPointerAutoActivator" Collapsed="true">
+    <Position X="98.5" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UICanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_UIDraggableItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="117.75" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAoACAACAAQAABAAAABAEAABAAAAACAgBAhgEAQADBA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIDraggableItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.VRTK_UIDropZone" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="119.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIDropZone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.VRTK_UIPointer" Collapsed="true">
+    <Position X="96.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EiAJSAqA0gBECeEiCChAINAULHQDoUEpIABiAAAJKMQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIPointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerElementHighlighters" Collapsed="true">
+    <Position X="96.75" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAABACAEAAAAEAAAAAAAAAAAwECgAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\ControllerModelSettings\VRTK_ControllerElementHighlighters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ControllerModelElementPaths" Collapsed="true">
+    <Position X="107.25" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAaAAAAAAAAAIIAAAAAAAAIAEBAAAAAAAAAEEAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\ControllerModelSettings\VRTK_ControllerModelElementPaths.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectFollow" Collapsed="true">
+    <Position X="19.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEECIEiEAAAAAAAAFAaAAQAAQgAAAIAAiCKAIACAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\ObjectFollow\VRTK_ObjectFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RigidbodyFollow" Collapsed="true">
+    <Position X="18.5" Y="25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIgAIAAAAAAAAACAAAAAgAAAJACgCCAASAAk=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\ObjectFollow\VRTK_RigidbodyFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_TransformFollow" Collapsed="true">
+    <Position X="20.75" Y="25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAABJAAgAAAAAAAAIAMAAAAAAgEAAIAAgSCAAACAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\ObjectFollow\VRTK_TransformFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="112.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAEAAAEgAoAAAAAAAAABBAMAAgAAQAAAAAiA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\SDK\VRTK_SDKInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.VRTK_SDKManager" Collapsed="true">
+    <Position X="114.25" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>UIFlBgwCAkgCAIihQyADAogwQEBEQxgqBAiAgzgiSSI=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\SDK\VRTK_SDKManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKSetup" Collapsed="true">
+    <Position X="117.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQRBGIQEAAEECYAAUAAiChSBAQgAQAAACACACAUASYA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\SDK\VRTK_SDKSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_AdaptiveQuality" Collapsed="true">
+    <Position X="112.5" Y="7.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>5AYBAFFAEAggKIQUAIEwJAEggAIACAAKCBIGEWDICWA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_AdaptiveQuality.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_CustomRaycast" Collapsed="true">
+    <Position X="119.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAAAACAAAACAAAAAAEAAIAAAAAAEAAAAgAADAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_CustomRaycast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_DeviceFinder" Collapsed="true">
+    <Position X="98.5" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QwBUIAgAAAAxUAIAAQAAAIAgIAQhgoAABAAgAEAICAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_DeviceFinder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_NavMeshData" Collapsed="true">
+    <Position X="103.75" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_NavMeshData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PolicyList" Collapsed="true">
+    <Position X="98.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAQAAAAAAAAAAQAAAABAAIAAAAAAEAAAgBAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_PolicyList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKInputOverrideType" Collapsed="true">
+    <Position X="14.75" Y="23.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKInputOverride.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKButtonInputOverrideType" Collapsed="true">
+    <Position X="15.75" Y="24.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKInputOverride.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKVector2AxisInputOverrideType" Collapsed="true">
+    <Position X="13.5" Y="24.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKInputOverride.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKInputOverride" Collapsed="true">
+    <Position X="17.75" Y="15" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIkIJAEABQQAAIYCCEiiGAQBCAAACAAtAEGGKIwBCYg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKInputOverride.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKObjectAlias" Collapsed="true">
+    <Position X="116" Y="11.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAQAAAAAAAAAAAAAAIAAAAABAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKObjectAlias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKObjectState" Collapsed="true">
+    <Position X="20" Y="15" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAIAQACAABIAoAAACABAAQAAAIAACAgCAAGAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKObjectState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKTransformModifiers" Collapsed="true">
+    <Position X="95" Y="12.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAACAIAACBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKTransformModify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKTransformModify" Collapsed="true">
+    <Position X="22.25" Y="15" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIAAgAAAAAAAIAAAAAAQAAAEAAKIAACAABAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SDKTransformModify.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SharedMethods" Collapsed="true">
+    <Position X="96.75" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACARoACRIEoQIBAIkACRAgAAAQ6AIAAERQQAgQkAiBA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_SharedMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_Simulator" Collapsed="true">
+    <Position X="98.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQBgCAAQAAIAAAAAAAAAAAAAAAAAACAAAAAAQAAClA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_Simulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_VelocityEstimator" Collapsed="true">
+    <Position X="100.25" Y="13.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEUgAAAAAAAAAAAAIAAggAAAQCAAQIAgAAAAAACQA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\VRTK_VelocityEstimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_Base" Collapsed="true">
+    <Position X="38.75" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_BaseBoundaries" Collapsed="true">
+    <Position X="11.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAACAAAAAAAgAAAAAEgAAACAAQQAAEAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_BaseController" Collapsed="true">
+    <Position X="29.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAUAUTAAwABSANIACAZAIRAAEARE8hABAhxAgQEEGA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_ControllerHapticModifiers" Collapsed="true">
+    <Position X="107.25" Y="5.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAgCAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_BaseHeadset" Collapsed="true">
+    <Position X="47.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAIEAAAAABAEgAAAAACABAgAAAAEIABAAAAAEQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_BaseSystem" Collapsed="true">
+    <Position X="65.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_DescriptionAttribute" Collapsed="true">
+    <Position X="112.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIgAAAAAAAAABAIAAAAAAAAgAAAAAAABAAAAABAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_DescriptionAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_ScriptingDefineSymbolPredicateAttribute" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="119.5" Y="5.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAEAAAABAAAAAAAAAAgBAQAAAAAABAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_ScriptingDefineSymbolPredicateAttribute.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VRTK.SDK_DaydreamBoundaries" Collapsed="true">
+    <Position X="10.75" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Daydream\SDK_DaydreamBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_DaydreamController" Collapsed="true">
+    <Position X="31" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Daydream\SDK_DaydreamController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_DaydreamDefines" Collapsed="true">
+    <Position X="110.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Daydream\SDK_DaydreamDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_DaydreamHeadset" Collapsed="true">
+    <Position X="40" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Daydream\SDK_DaydreamHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_DaydreamSystem" Collapsed="true">
+    <Position X="58" Y="18.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Daydream\SDK_DaydreamSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_FallbackBoundaries" Collapsed="true">
+    <Position X="8.5" Y="17.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAACAAAAAAAgAAAAAEgAAAAAAQAAAEAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Fallback\SDK_FallbackBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_FallbackController" Collapsed="true">
+    <Position X="26.5" Y="17.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAEAESAAgABSAIAAAARAIQAAEABEsAAAAghAAQAEEA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Fallback\SDK_FallbackController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_FallbackHeadset" Collapsed="true">
+    <Position X="44.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAABAEgAAAAAAABAgAAAAAAABAAAAAEQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Fallback\SDK_FallbackHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_FallbackSystem" Collapsed="true">
+    <Position X="62.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Fallback\SDK_FallbackSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_HyperealVRBoundaries" Collapsed="true">
+    <Position X="6.25" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\HyperealVR\SDK_HyperealVRBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_HyperealVRController" Collapsed="true">
+    <Position X="26.5" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\HyperealVR\SDK_HyperealVRController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_HyperealVRDefines" Collapsed="true">
+    <Position X="114.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\HyperealVR\SDK_HyperealVRDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_HyperealVRHeadset" Collapsed="true">
+    <Position X="46.75" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\HyperealVR\SDK_HyperealVRHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_HyperealVRSystem" Collapsed="true">
+    <Position X="64.75" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\HyperealVR\SDK_HyperealVRSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_OculusBoundaries" Collapsed="true">
+    <Position X="17.5" Y="17.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAQAAAACAAAAAAAgAAAAAEgAAAQAAQAAAEAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Oculus\SDK_OculusBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_OculusController" Collapsed="true">
+    <Position X="35.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAUCGSAQ4SJSgIAQAAZAIRBQOAhM+CAAIghIgQIEUA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Oculus\SDK_OculusController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_OculusDefines" Collapsed="true">
+    <Position X="117.75" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAQEAACAAAEAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Oculus\SDK_OculusDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_OculusHeadset" Collapsed="true">
+    <Position X="53.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAABAEgAAAAAAABAgAAAAgAABBAAAAEQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Oculus\SDK_OculusHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_OculusSystem" Collapsed="true">
+    <Position X="71.5" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Oculus\SDK_OculusSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_ControllerSim" Collapsed="true">
+    <Position X="109" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAEIAAQAAAgAAGgA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_ControllerSim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_InputSimulator" Collapsed="true">
+    <Position X="116" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>wQwBQAgAXsUDgzTAUMAQAZiCCBRyAJQAIxJViEkAKMg=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_InputSimulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SimBoundaries" Collapsed="true">
+    <Position X="19.75" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAACAAAAAAAgAAAAAEgAAAAAAQAAAEAAE=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_SimBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SimController" Collapsed="true">
+    <Position X="37.75" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>wEAEAESgAgwBSIIAAAAZQIQAAGABEsAAJAghAAQAGWA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_SimController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SimHeadset" Collapsed="true">
+    <Position X="75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAgBAEgAAAAEAABAgAAAAgAABBQAAAEQACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_SimHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SimSystem" Collapsed="true">
+    <Position X="73.75" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Simulator\SDK_SimSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SteamVRBoundaries" Collapsed="true">
+    <Position X="4" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\SteamVR\SDK_SteamVRBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SteamVRController" Collapsed="true">
+    <Position X="24.25" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\SteamVR\SDK_SteamVRController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SteamVRDefines" Collapsed="true">
+    <Position X="95" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgAAAAAAAIBAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\SteamVR\SDK_SteamVRDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SteamVRHeadset" Collapsed="true">
+    <Position X="44.5" Y="18.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\SteamVR\SDK_SteamVRHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_SteamVRSystem" Collapsed="true">
+    <Position X="62.5" Y="18.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\SteamVR\SDK_SteamVRSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityBoundaries" Collapsed="true">
+    <Position X="15.25" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAACAAAAAAAgAAAAAEgAAAAAAQAAAEAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityCameraRig" Collapsed="true">
+    <Position X="96.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityCameraRig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityController" Collapsed="true">
+    <Position X="33.25" Y="17.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BEAEiMSBAgABWAIAAIidEIRFgGAxMsAgBQghJAQWEEA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityControllerTracker" Collapsed="true">
+    <Position X="98.5" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAACAgAAAAAACAAAAAQAAAAAAACAAAAAhAABCAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityControllerTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityHeadset" Collapsed="true">
+    <Position X="51.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAAAAAAAABAEgAAAAAAABAgAAAAgAABBAAAAEQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnityHeadsetTracker" Collapsed="true">
+    <Position X="100.25" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnityHeadsetTracker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_UnitySystem" Collapsed="true">
+    <Position X="69.25" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIQAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Unity\SDK_UnitySystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDK_Bridge" Collapsed="true">
+    <Position X="110.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAUAAzEAgDBWiIIIwBTApckAFQFkoABAAAwIEwEQEA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\VRTK_SDK_Bridge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.WindowsMR_Camera" Collapsed="true">
+    <Position X="116" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAEAAAAAAAAAAAMAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\Resources\WindowsMR_Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.WindowsMR_ControllerManager" Collapsed="true">
+    <Position X="117.75" Y="13.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\Resources\WindowsMR_ControllerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.WindowsMR_TrackedObject" Collapsed="true">
+    <Position X="119.5" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\Resources\WindowsMR_TrackedObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_WindowsMRBoundaries" Collapsed="true">
+    <Position X="8.5" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\SDK_WindowsMRBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_WindowsMRController" Collapsed="true">
+    <Position X="28.75" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\SDK_WindowsMRController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_WindowsMRDefines" Collapsed="true">
+    <Position X="102" Y="6.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAABAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\SDK_WindowsMRDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_WindowsMRHeadset" Collapsed="true">
+    <Position X="49" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\SDK_WindowsMRHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_WindowsMR" Collapsed="true">
+    <Position X="67" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\SDK_WindowsMRSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_XimmerseBoundaries" Collapsed="true">
+    <Position X="13" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseBoundaries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_XimmerseController" Collapsed="true">
+    <Position X="22" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_XimmerseDefines" Collapsed="true">
+    <Position X="103.75" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseDefines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_XimmerseHeadset" Collapsed="true">
+    <Position X="42.25" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseHeadset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SDK_XimmerseSystem" Collapsed="true">
+    <Position X="60.25" Y="18.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Ximmerse\SDK_XimmerseSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Highlighters.VRTK_BaseHighlighter" Collapsed="true">
+    <Position X="9.75" Y="23.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAIAAAAQCAQgAEAAAAAAAACEAIAAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Highlighters\VRTK_BaseHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Highlighters.VRTK_MaterialColorSwapHighlighter" Collapsed="true">
+    <Position X="8.5" Y="25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAAIAAQAAAQAEACAAgAAAAEAIABgAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Highlighters\VRTK_MaterialColorSwapHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Highlighters.VRTK_MaterialPropertyBlockColorSwapHighlighter" Collapsed="true">
+    <Position X="8.5" Y="26.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAQAAAQAEAAAAAAAAAAAAAAgBCAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Highlighters\VRTK_MaterialPropertyBlockColorSwapHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Highlighters.VRTK_OutlineObjectCopyHighlighter" Collapsed="true">
+    <Position X="10.75" Y="25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BCABAAECAAAAAQgABAAMgUAAAAhAAEAAAAAAAAAAHAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Highlighters\VRTK_OutlineObjectCopyHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.ArtificialBased.VRTK_ArtificialPusher" Collapsed="true">
+    <Position X="20" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACCQAMAAIAoIFwACAACQIAFABACIgQAIEAABCCACiAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Artificial\VRTK_ArtificialPusher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.ArtificialBased.VRTK_ArtificialRotator" Collapsed="true">
+    <Position X="22.25" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACQEglxBoAcCIwoiIiYICIIBEgGAoppIAQwAAIAQ6Ag=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Artificial\VRTK_ArtificialRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.ArtificialBased.VRTK_ArtificialSlider" Collapsed="true">
+    <Position X="24.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BCQAgF4BoA4AIggiIBQIKIIQEgEEoAQIhUxAQIAAyAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Artificial\VRTK_ArtificialSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.PhysicsBased.VRTK_BasePhysicsControllable" Collapsed="true">
+    <Position X="29" Y="8" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAAAAEAAABAEAAIEAAAAgAAACIgBAIQACAGBA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Physics\VRTK_BasePhysicsControllable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.PhysicsBased.VRTK_PhysicsPusher" Collapsed="true">
+    <Position X="26.75" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACYAAAAAIgosAwACiAAAIABAAAAIiUAIgAAAAAAAiAo=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Physics\VRTK_PhysicsPusher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.PhysicsBased.VRTK_PhysicsRotator" Collapsed="true">
+    <Position X="29" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACYQgFgSoAcCMwoiswMJKAIZEw2AqJZIAQwAAIAA6Ag=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Physics\VRTK_PhysicsRotator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.PhysicsBased.VRTK_PhysicsSlider" Collapsed="true">
+    <Position X="31.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AiYAgFoAoA4EIggioBAJKIIYEwUAqARIhUxAAIAA2AA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\Physics\VRTK_PhysicsSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Controllables.VRTK_BaseControllable" Collapsed="true">
+    <Position X="25.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAUkUABpQIEFgAAAASALAAwAEgBkIMMVAIgCECCmEU=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\VRTK_BaseControllable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_BaseGrabAttach" Collapsed="true">
+    <Position X="10.25" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gEAkAAAAwACBARgggIR4gAQAEgAICKAAAAggAESAYEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_BaseGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_BaseJointGrabAttach" Collapsed="true">
+    <Position X="12.5" Y="12" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAwgAAIAACAAAAECAAAgAAggAAQAAQAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_BaseJointGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_ChildOfControllerGrabAttach" Collapsed="true">
+    <Position X="17" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAAggAAAAAQAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_ChildOfControllerGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_ClimbableGrabAttach" Collapsed="true">
+    <Position X="19.25" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_ClimbableGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_ControlAnimationGrabAttach" Collapsed="true">
+    <Position X="1.25" Y="12" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAwEoQAAAQAAREQIAAABAUABQAAJAgiFAIQASAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_ControlAnimationGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_CustomJointGrabAttach" Collapsed="true">
+    <Position X="10.25" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAQAAAAAgCAAAAAAAAAAAAABACAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_CustomJointGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_FixedJointGrabAttach" Collapsed="true">
+    <Position X="12.5" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_FixedJointGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_MoveTransformGrabAttach" Collapsed="true">
+    <Position X="3.5" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>MQ0BBgwASKBGITQDCAQABAlwQAgRyACJCAgAR4Qk6JQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_MoveTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_RotateTransformGrabAttach" Collapsed="true">
+    <Position X="5.75" Y="12" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>RQgAAQgAAKAWkQgAIAIYiIAAQpIwkUgMAByARYYCwAQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_RotateTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_RotatorTrackGrabAttach" Collapsed="true">
+    <Position X="8" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_RotatorTrackGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_SpringJointGrabAttach" Collapsed="true">
+    <Position X="14.75" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEQACAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_SpringJointGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.GrabAttachMechanics.VRTK_TrackObjectGrabAttach" Collapsed="true">
+    <Position X="8" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAIAQQAAAQAAAAAAAEAAAABAAwAAIQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_TrackObjectGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SecondaryControllerGrabActions.VRTK_AxisScaleGrabAction" Collapsed="true">
+    <Position X="0.75" Y="25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAAAAQCEAAAAAAAAAAACAAAQAwACAAwAEAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\SecondaryControllerGrabActions\VRTK_AxisScaleGrabAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SecondaryControllerGrabActions.VRTK_BaseGrabAction" Collapsed="true">
+    <Position X="3" Y="23.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BMAgAAQAABAAAQAEAgAABAAEAAAAAAAAAAAACQQAABQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\SecondaryControllerGrabActions\VRTK_BaseGrabAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SecondaryControllerGrabActions.VRTK_ControlDirectionGrabAction" Collapsed="true">
+    <Position X="3" Y="25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAQAAAAAAAQAAIAAAACCAAIAAAACAEAAAAQQAERA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\SecondaryControllerGrabActions\VRTK_ControlDirectionGrabAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.SecondaryControllerGrabActions.VRTK_SwapControllerGrabAction" Collapsed="true">
+    <Position X="5.25" Y="25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\SecondaryControllerGrabActions\VRTK_SwapControllerGrabAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_BaseControllable_UnityEvents" Collapsed="true">
+    <Position X="76.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAQAAABAAAACABAAAAEAAIAEABAAgAACCEAQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_BaseControllable_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_BasicTeleport_UnityEvents" Collapsed="true">
+    <Position X="81.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAACAAAAAABAAAAAAAAAEAAAAIAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_BasicTeleport_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_BodyPhysics_UnityEvents" Collapsed="true">
+    <Position X="85.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAACAAAAAIBEACACAAAIAAgQAIACAQBAAABEoAkA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_BodyPhysics_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_Button_UnityEvents" Collapsed="true">
+    <Position X="90.25" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAABAAAQAIAEAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_Button_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_Control_UnityEvents" Collapsed="true">
+    <Position X="4.75" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAEAAIAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_Control_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ControlAnimationGrabAttach_UnityEvents" Collapsed="true">
+    <Position X="9.25" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAgAAAAAABAAQEAAAAAAAAAAIAAAAACEAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ControlAnimationGrabAttach_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ControllerEvents_UnityEvents" Collapsed="true">
+    <Position X="13.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>Ai0GACc0aIBYBztgyGiCRkSAMCHgY3JLChKZIFpCiU4=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ControllerEvents_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ControllerRigidbodyActivator_UnityEvents" Collapsed="true">
+    <Position X="18.25" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAkAABAAAQAAAAAAAAAAIAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ControllerRigidbodyActivator_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ControllerTooltips_UnityEvents" Collapsed="true">
+    <Position X="22.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAQAAAAAAAAAAQAIAAAAAAEAAAAAQA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ControllerTooltips_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_DashTeleport_UnityEvents" Collapsed="true">
+    <Position X="27.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAIAABAAAABACAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_DashTeleport_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_DestinationMarker_UnityEvents" Collapsed="true">
+    <Position X="31.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAQAAhAAIAAAAAAAAAAAYAAEIAAAIAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_DestinationMarker_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_DestinationPoint_UnityEvents" Collapsed="true">
+    <Position X="36.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAIAAAAAAAAAAAiYACBABAAAAFCAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_DestinationPoint_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_HeadsetCollision_UnityEvents" Collapsed="true">
+    <Position X="40.75" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAABEAAAAAAAAAQAAAIAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_HeadsetCollision_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_HeadsetControllerAware_UnityEvents" Collapsed="true">
+    <Position X="45.25" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAKABBAAAAAAAAgAAAAIAAgBAAAAAAAAEg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_HeadsetControllerAware_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_HeadsetFade_UnityEvents" Collapsed="true">
+    <Position X="49.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAAAJAAAAAAABAAAAAAIAAAAAAAAAAEhAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_HeadsetFade_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractableObject_UnityEvents" Collapsed="true">
+    <Position X="54.25" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAAIgABgAAJAEhAAQgBACAAABAAMJKSBBgAgABAAQAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractableObject_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractControllerAppearance_UnityEvents" Collapsed="true">
+    <Position X="58.75" Y="2" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAUAABAgiAgAAgAAIAAAIAQAAAAACFKQAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractControllerAppearance_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractGrab_UnityEvents" Collapsed="true">
+    <Position X="63.25" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAACAFABBAAAAAAAAAAAAAEIAAAABAAUAASAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractGrab_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractHaptics_UnityEvents" Collapsed="true">
+    <Position X="67.75" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAJAEAARAAAAAAABAIBQIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractHaptics_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractNearTouch_UnityEvents" Collapsed="true">
+    <Position X="70" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAIBAAAAAAAgAAAAAAIAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractNearTouch_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractObjectAppearance_UnityEvents" Collapsed="true">
+    <Position X="72.25" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAIRAAAAAAAAAAEIAAAAAAAAARCAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractObjectAppearance_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractObjectHighlighter_UnityEvents" Collapsed="true">
+    <Position X="74.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAEAAAgAAAAAACIAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractObjectHighlighter_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractTouch_UnityEvents" Collapsed="true">
+    <Position X="79" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABEAAAAgIAIACAgAIAEAAAAAABAIkCA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractTouch_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_InteractUse_UnityEvents" Collapsed="true">
+    <Position X="83.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAABAIQAAAAEAAAQBEoAAQAIACAABAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_InteractUse_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_MoveTransformGrabAttach_UnityEvents" Collapsed="true">
+    <Position X="88" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>MQgABAQAQIBAARAAAAAABAAAAAAAIACBCAAAAAAAgAQ=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_MoveTransformGrabAttach_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ObjectAutoGrab_UnityEvents" Collapsed="true">
+    <Position X="92.5" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEABAAAAAAAAAAAAAAIAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ObjectAutoGrab_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ObjectControl_UnityEvents" Collapsed="true">
+    <Position X="7" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAIAABAAAAAAQAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ObjectControl_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_ObjectTooltip_UnityEvents" Collapsed="true">
+    <Position X="11.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAgBAAAIAAAAAAAAAAIAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_ObjectTooltip_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_PlayAreaCursor_UnityEvents" Collapsed="true">
+    <Position X="16" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAABAAAAAAAAAEAAAAIAAAAQAAAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_PlayAreaCursor_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_PlayerClimb_UnityEvents" Collapsed="true">
+    <Position X="20.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAABAAAQAIAAAAAEAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_PlayerClimb_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_Pointer_UnityEvents" Collapsed="true">
+    <Position X="25" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAggACCBAACAAAAIAQAAAAICAAIAAAAAgAIAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_Pointer_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_PointerDirectionIndicator_UnityEvents" Collapsed="true">
+    <Position X="29.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAABAgAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_PointerDirectionIndicator_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_PositionRewind_UnityEvents" Collapsed="true">
+    <Position X="34" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAgABAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_PositionRewind_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_RotateTransformGrabAttach_UnityEvents" Collapsed="true">
+    <Position X="38.5" Y="2" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAIAAABAAAAAAAAAAAJIAIEAAAAAARAACAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_RotateTransformGrabAttach_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_SDKManager_UnityEvents" Collapsed="true">
+    <Position X="43" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAQAAAAAAAAAAAIAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_SDKManager_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_SDKSetup_UnityEvents" Collapsed="true">
+    <Position X="47.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAEAABAAQAAAAAAAAQAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_SDKSetup_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_SlingshotJump_UnityEvents" Collapsed="true">
+    <Position X="52" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAABAAAAAAAAAAAAAAIACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_SlingshotJump_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_SnapDropZone_UnityEvents" Collapsed="true">
+    <Position X="56.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAEBUQBCAACAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_SnapDropZone_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_UIDraggableItem_UnityEvents" Collapsed="true">
+    <Position X="61" Y="2" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAEAQABAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_UIDraggableItem_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_UIPointer_UnityEvents" Collapsed="true">
+    <Position X="65.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAASAgAggAEAHAACCAAAIAQAAAAIAEAIABAAAABIIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_UIPointer_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.UnityEventHelper.VRTK_UnityEvents&lt;T&gt;" Collapsed="true">
+    <Position X="48.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAIAAIAAAAAAAASAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Utilities\UnityEvents\VRTK_UnityEvents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.WindowsMixedReality.Utilities.InteractionSourceExtensions" Collapsed="true">
+    <Position X="116" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\Resources\InteractionSourceExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.WindowsMixedReality.Utilities.WindowsApiChecker" Collapsed="true">
+    <Position X="114.25" Y="13.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\WindowsMR\Resources\WindowsApiChecker.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="VRTK.ControllerRigidbodyActivatorEventArgs" Collapsed="true">
+    <Position X="105.5" Y="14.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerRigidbodyActivator\VRTK_ControllerRigidbodyActivator.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.ControllerTooltipsEventArgs" Collapsed="true">
+    <Position X="107.25" Y="14.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerTooltips\VRTK_ControllerTooltips.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.ObjectTooltipEventArgs" Collapsed="true">
+    <Position X="105.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ObjectTooltip\VRTK_ObjectTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.PanelMenuItemControllerEventArgs" Collapsed="true">
+    <Position X="107.25" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PanelMenu\VRTK_PanelMenuItemController.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.TouchAngleDeflection" Collapsed="true">
+    <Position X="117.75" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\VRTK_RadialMenu.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.SnapDropZoneEventArgs" Collapsed="true">
+    <Position X="116" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\SnapDropZone\VRTK_SnapDropZone.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.Control3DEventArgs" Collapsed="true">
+    <Position X="98.5" Y="14.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Control.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.InteractableObjectEventArgs" Collapsed="true">
+    <Position X="117.75" Y="14.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractableObject.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.InteractControllerAppearanceEventArgs" Collapsed="true">
+    <Position X="119.5" Y="14.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractControllerAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.InteractHapticsEventArgs" Collapsed="true">
+    <Position X="95" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractHaptics.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.InteractObjectAppearanceEventArgs" Collapsed="true">
+    <Position X="96.75" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAIAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.InteractObjectHighlighterEventArgs" Collapsed="true">
+    <Position X="98.5" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAgAAAAAAAIAAAAgAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.ControllerInteractionEventArgs" Collapsed="true">
+    <Position X="103.75" Y="14.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAABAAAAAAAEAAAAAAACAAAAACAAAAIAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ControllerEvents.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.ObjectInteractEventArgs" Collapsed="true">
+    <Position X="103.75" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractTouch.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.CollisionTrackerEventArgs" Collapsed="true">
+    <Position X="96.75" Y="14.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_CollisionTracker.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.VRTKTrackedControllerEventArgs" Collapsed="true">
+    <Position X="98.5" Y="16.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_TrackedController.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.DashTeleportEventArgs" Collapsed="true">
+    <Position X="109" Y="14.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_DashTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.ObjectControlEventArgs" Collapsed="true">
+    <Position X="102" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAEAAAAAAFAAAAAAAAEAAAAAAAAAAABAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_ObjectControl.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.PlayerClimbEventArgs" Collapsed="true">
+    <Position X="110.75" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_PlayerClimb.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.DestinationMarkerEventArgs" Collapsed="true">
+    <Position X="110.75" Y="14.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIgAAAAAgEEAACAAAAAAAAAAAIAg=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_DestinationMarker.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.PlayAreaCursorEventArgs" Collapsed="true">
+    <Position X="109" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_PlayAreaCursor.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.BodyPhysicsEventArgs" Collapsed="true">
+    <Position X="95" Y="14.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_BodyPhysics.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.HeadsetCollisionEventArgs" Collapsed="true">
+    <Position X="112.5" Y="14.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetCollision.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.HeadsetControllerAwareEventArgs" Collapsed="true">
+    <Position X="114.25" Y="14.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetControllerAware.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.HeadsetFadeEventArgs" Collapsed="true">
+    <Position X="116" Y="14.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetFade.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.PositionRewindEventArgs" Collapsed="true">
+    <Position X="112.5" Y="15.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_PositionRewind.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.UIDraggableItemEventArgs" Collapsed="true">
+    <Position X="119.5" Y="15.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIDraggableItem.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.UIPointerEventArgs" Collapsed="true">
+    <Position X="95" Y="16.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAABAAAhAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIPointer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.VRTKSDKBaseControllerEventArgs" Collapsed="true">
+    <Position X="96.75" Y="16.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.Controllables.ControllableEventArgs" Collapsed="true">
+    <Position X="102" Y="14.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAACAAAAAAAEAAAIA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\VRTK_BaseControllable.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.GrabAttachMechanics.ControlAnimationGrabAttachEventArgs" Collapsed="true">
+    <Position X="100.25" Y="14.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_ControlAnimationGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.GrabAttachMechanics.MoveTransformGrabAttachEventArgs" Collapsed="true">
+    <Position X="100.25" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAIAAAAAAIgAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_MoveTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="VRTK.GrabAttachMechanics.RotateTransformGrabAttachEventArgs" Collapsed="true">
+    <Position X="114.25" Y="15.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIABAAAAAAAAAAAAAAAAAgBAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_RotateTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Delegate Name="VRTK.ControllerRigidbodyActivatorEventHandler" Collapsed="true">
+    <Position X="107.25" Y="18" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerRigidbodyActivator\VRTK_ControllerRigidbodyActivator.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ControllerTooltipsEventHandler" Collapsed="true">
+    <Position X="109" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ControllerTooltips\VRTK_ControllerTooltips.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.DestinationPointEventHandler" Collapsed="true">
+    <Position X="114.25" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\DestinationPoint\VRTK_DestinationPoint.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ObjectTooltipEventHandler" Collapsed="true">
+    <Position X="112.5" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\ObjectTooltip\VRTK_ObjectTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.PanelMenuItemControllerEventHandler" Collapsed="true">
+    <Position X="114.25" Y="18.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PanelMenu\VRTK_PanelMenuItemController.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.PointerDirectionIndicatorEventHandler" Collapsed="true">
+    <Position X="119.5" Y="18.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\PointerDirectionIndicator\VRTK_PointerDirectionIndicator.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.HapticPulseEventHandler" Collapsed="true">
+    <Position X="116" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\RadialMenu\VRTK_RadialMenu.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.SnapDropZoneEventHandler" Collapsed="true">
+    <Position X="100.25" Y="19.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Prefabs\SnapDropZone\VRTK_SnapDropZone.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.Button3DEventHandler" Collapsed="true">
+    <Position X="96.75" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Button.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.Control3DEventHandler" Collapsed="true">
+    <Position X="100.25" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Controls\3D\VRTK_Control.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.InteractableObjectEventHandler" Collapsed="true">
+    <Position X="96.75" Y="18.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractableObject.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.InteractControllerAppearanceEventHandler" Collapsed="true">
+    <Position X="98.5" Y="18.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractControllerAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.InteractHapticsEventHandler" Collapsed="true">
+    <Position X="100.25" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractHaptics.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.InteractObjectAppearanceEventHandler" Collapsed="true">
+    <Position X="102" Y="18.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectAppearance.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.InteractObjectHighlighterEventHandler" Collapsed="true">
+    <Position X="103.75" Y="18.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\VRTK_InteractObjectHighlighter.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ControllerInteractionEventHandler" Collapsed="true">
+    <Position X="105.5" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ControllerEvents.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ObjectInteractEventHandler" Collapsed="true">
+    <Position X="110.75" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_InteractTouch.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ObjectAutoGrabEventHandler" Collapsed="true">
+    <Position X="107.25" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactors\VRTK_ObjectAutoGrab.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.CollisionTrackerEventHandler" Collapsed="true">
+    <Position X="98.5" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_CollisionTracker.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.VRTKTrackedControllerEventHandler" Collapsed="true">
+    <Position X="109" Y="19.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Internal\VRTK_TrackedController.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.TeleportEventHandler" Collapsed="true">
+    <Position X="102" Y="19.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_BasicTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.DashTeleportEventHandler" Collapsed="true">
+    <Position X="110.75" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_DashTeleport.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.ObjectControlEventHandler" Collapsed="true">
+    <Position X="109" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_ObjectControl.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.PlayerClimbEventHandler" Collapsed="true">
+    <Position X="117.75" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_PlayerClimb.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.SlingshotJumpEventHandler" Collapsed="true">
+    <Position X="98.5" Y="19.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Locomotion\VRTK_SlingshotJump.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.DestinationMarkerEventHandler" Collapsed="true">
+    <Position X="112.5" Y="18" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_DestinationMarker.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.PlayAreaCursorEventHandler" Collapsed="true">
+    <Position X="116" Y="18.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Pointers\VRTK_PlayAreaCursor.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.BodyPhysicsEventHandler" Collapsed="true">
+    <Position X="95" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_BodyPhysics.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.HeadsetCollisionEventHandler" Collapsed="true">
+    <Position X="117.75" Y="18" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetCollision.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.HeadsetControllerAwareEventHandler" Collapsed="true">
+    <Position X="119.5" Y="18" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetControllerAware.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.HeadsetFadeEventHandler" Collapsed="true">
+    <Position X="95" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_HeadsetFade.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.PositionRewindEventHandler" Collapsed="true">
+    <Position X="95" Y="19.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Presence\VRTK_PositionRewind.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.UIDraggableItemEventHandler" Collapsed="true">
+    <Position X="103.75" Y="19.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIDraggableItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.UIPointerEventHandler" Collapsed="true">
+    <Position X="105.5" Y="19.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\UI\VRTK_UIPointer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.VRTKSDKBaseControllerEventHandler" Collapsed="true">
+    <Position X="107.25" Y="19.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\SDK\Base\SDK_BaseController.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.Controllables.ControllableEventHandler" Collapsed="true">
+    <Position X="103.75" Y="18" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\Controllables\VRTK_BaseControllable.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.GrabAttachMechanics.ControlAnimationGrabAttachEventHandler" Collapsed="true">
+    <Position X="102" Y="18" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_ControlAnimationGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.GrabAttachMechanics.MoveTransformGrabAttachEventHandler" Collapsed="true">
+    <Position X="105.5" Y="18.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_MoveTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="VRTK.GrabAttachMechanics.RotateTransformGrabAttachEventHandler" Collapsed="true">
+    <Position X="96.75" Y="19.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Scripts\Interactions\Interactables\GrabAttachMechanics\VRTK_RotateTransformGrabAttach.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

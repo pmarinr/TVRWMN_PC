@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VRTK.Examples.Utilities.VRTKExample_FixSetupEditor" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Examples\ExampleResources\SharedResources\Scripts\Editor\VRTKExample_FixSetupEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.MinMaxRangeDrawer" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAIAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\Attributes\MinMaxRangeDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.ObsoleteInspectorDrawer" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\Attributes\ObsoleteInspectorDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Limits2DDrawer" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\DataTypes\Limits2DDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Vector3StateDrawer" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\DataTypes\Vector3StateDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_AdaptiveQualityEditor" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_AdaptiveQualityEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_EditorUtilities" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABAAAAAAACAAAAAAAAgAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_EditorUtilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_InteractHapticsEditor" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQKBAGAGAAAAAEAgAACAgOAAAIAgAAIAAQAEAAiAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_InteractHapticsEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_NavMeshDataEditor" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAIAAACAAAAAAAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_NavMeshDataEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_ObjectSetup" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIICAQAAAIAQAAAAAAAAUIIAAEAAAgAQCCCAAAgCAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_ObjectSetup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_PolicyListEditor" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAABAAAAAAICAAgAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_PolicyListEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_RadialMenuEditor" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_RadialMenuEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKManagerEditor" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAACCAAAAAAAAAAIQAEAAAAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_SDKManagerEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SDKSetupEditor" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAQABAEAAASABAAAAAAAAIAAAAIQAACAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_SDKSetupEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.VRTK_SupportInfoWindow" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAACAAAAAAAAAAQAAAAAAAAAARAAAACAAABAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_SupportInfoWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK.Supyrb.SerializedPropertyExtensions" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAgAgAAAAAAAQAAgAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\Attributes\SerializedPropertyExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRTK_UpdatePrompt" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIBAAAAIAAYAAEAABSAgAAAAAgACYBAAICAAABAAAE=</HashCode>
+      <FileName>Assets\VRTK\Source\Editor\VRTK_UpdatePrompt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
