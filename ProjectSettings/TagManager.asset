@@ -20,6 +20,10 @@ TagManager:
   - Baul
   - Biblioteca
   - Escritorio
+  - PlayerLinterna
+  - PlayerManoDch
+  - PlayerManoIzq
+  - Pista
   layers:
   - Default
   - TransparentFX
